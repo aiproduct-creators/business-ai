@@ -9,8 +9,8 @@ Before running the application, ensure you have Python installed on your system.
 
 1. **Clone the Repository**:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:aiproduct-creators/business-ai.git
+   cd business-ai
    ```
 2. **Set Up a Virtual Environment** (Optional but recommended):
    ```
